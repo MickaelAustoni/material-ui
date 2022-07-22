@@ -4512,10 +4512,10 @@ autoprefixer@^9.8.6:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-autosuggest-highlight@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/autosuggest-highlight/-/autosuggest-highlight-3.3.0.tgz#f39cf33ab2bcda5d07eb4912ff1e361f43b97948"
-  integrity sha512-Ogc+Ol7FdV6cE2bY4avVwcGDBav9MYTzfG2RGDMutjao4VQoZAOD8lZOATxjnjFXqJ3u7BFZIWcbbe0Hi78vAA==
+autosuggest-highlight@^3.3.3:
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/autosuggest-highlight/-/autosuggest-highlight-3.3.3.tgz#78bd7cf043c1aa69f7e76ef6f0a396f5c571ec0a"
+  integrity sha512-zUrWcA0Y2ikZOh2yFpOok66dcD+A1f29NOEI7X6fto13C9f4SPbT8BK+C1zJsdN0wxjH5g3YSZ1MyELSFAV1sw==
   dependencies:
     remove-accents "^0.4.2"
 
